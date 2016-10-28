@@ -66,7 +66,7 @@ export default class  Image_  extends Component{
 				style = {styles.imageView}
 				/>
 		
-				<Text style={styles.textView}>美食</Text>
+				<Text style={styles.textView}>风景</Text>
 			</View>
 		</View>
 		

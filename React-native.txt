@@ -273,8 +273,6 @@ AppRegistry.registerComponent('Demo1', () => Demo1);
 	responseJson就是这个对象，title、movies就是其中的属性。
 	
 	7、处理触摸，点击等事件
-		点击触摸也有专门的组件，在需要添加的事件的组件外边加一层TouchableHighlight
-		或者TouchableOpacity，在其的onPress方法中添加要做的操作。
 	
 	8、组件见传值的方式：
 		如果是嵌套方式，那么直接通过this.props.(这个点后边跟你要传递的对象名)
